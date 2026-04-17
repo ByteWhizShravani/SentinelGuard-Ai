@@ -1,0 +1,21 @@
+email,url,label
+"Your account is locked. Verify now to avoid suspension.","http://secure-login-verify-account.com",phishing
+"Security alert: update your password immediately.","http://bank-update-password-alert.net",phishing
+"Click here to confirm billing details.","http://confirm-wallet-billing-info.org",phishing
+"Suspicious login detected, verify your identity now.","http://verify-access-now-login.co",phishing
+"Reset your mailbox password in 24 hours.","http://mail-reset-password-check.com",phishing
+"Payment failed. Re-enter card details immediately.","http://secure-payment-confirmation.biz",phishing
+"You won a reward. Claim now by signing in.","http://gift-claim-login-prize.ru",phishing
+"Urgent: Bank account verification required.","http://bank-security-verify-user.com",phishing
+"Please review the project meeting notes.","https://docs.company.com/meeting-notes",safe
+"Weekly newsletter and product updates.","https://newsletter.example.com/issues/12",safe
+"Reminder: Team standup at 10 AM.","https://calendar.company.com/event/standup",safe
+"Invoice attached for your recent purchase.","https://billing.trustedstore.com/invoice/443",safe
+"Welcome to SentinelGuard AI platform.","https://sentinelguard.ai/welcome",safe
+"Password change confirmation from your account settings.","https://accounts.example.com/security/history",safe
+"Please complete your onboarding checklist.","https://hr.company.com/onboarding",safe
+"Your shipment is on the way.","https://tracking.shipfast.com/order/9843",safe
+"Review request from your teammate.","https://workspace.teamapp.com/review/991",safe
+"Maintenance notice for cloud services.","https://status.cloudhost.com/maintenance",safe
+"Monthly financial report is ready.","https://reports.company.com/finance/monthly",safe
+"Customer support ticket update.","https://support.vendor.com/tickets/8832",safe
