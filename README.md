@@ -66,6 +66,7 @@ python ml/train_model.py
 | **Database** | MongoDB Atlas |
 
 ## Project Design
+
 <img width="416" height="1600" alt="WhatsApp Image 2026-04-18 at 7 26 48 AM" src="https://github.com/user-attachments/assets/b5c0fabd-5bb0-47ed-a563-5b7bd6728770" />
 
 
